@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="my_firstmodules_pip_fibo",  # 这个名字要独一无二的
+    name="xiaomicaiFibo_pip_fibo",  # 这个名字要独一无二的
     version="0.1",
     author="xmc5281",
     author_email="1028251782@qq.com",
