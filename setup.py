@@ -19,6 +19,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[],
-    py_requires=["myCode"],  # 这是你存放python代码的目录
+    py_requires=["xiaomicaiFibo"],  # 这是你存放python代码的目录
     python_requires='>=3.6',
 )
